@@ -16,3 +16,21 @@ A rule-based chatbot developed using Python as part of the CodeAlpha Python Prog
 
 ## Author
 Thirisha J
+## Sample Output
+
+text
+Welcome to CodeAlpha Smart Chatbot
+
+Enter your name: Thirisha
+
+Bot: Welcome Thirisha!
+Bot: Type 'help' to see available commands.
+
+You: hello
+Bot: Hello! Nice to meet you.
+
+You: how are you
+Bot: I'm doing great. Thanks for asking!
+
+You: bye
+Bot: Goodbye Thirisha! Have a wonderful day!
