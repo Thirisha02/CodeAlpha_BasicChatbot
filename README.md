@@ -1,4 +1,4 @@
-# CodeAlpha Basic Chatbot
+# CodeAlpha Smart Basic Chatbot
 
 ## Description
 A rule-based chatbot developed using Python as part of the CodeAlpha Python Programming Internship.
