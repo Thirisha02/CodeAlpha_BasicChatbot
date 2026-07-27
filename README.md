@@ -34,3 +34,6 @@ Bot: I'm doing great. Thanks for asking!
 
 You: bye
 Bot: Goodbye Thirisha! Have a wonderful day!
+## Screenshot
+
+![Chatbot Output](chatbot1.png)
